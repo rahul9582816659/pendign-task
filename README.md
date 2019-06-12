@@ -7,3 +7,5 @@
 5. Spring Security
 6. Hibernate caching
 7. Ubuntu Docker + kubernetes java & angular deployment to docker hub
+8. Spring Cloud
+9. ELK Stack elastic search, log stash, kibana
